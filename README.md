@@ -21,10 +21,5 @@ The CLI Reminder App is a Python-based command-line tool that allows users to se
 ## Technologies Used
 - Python
 
-## Future Improvements (optional)
-- Add reminder notifications
-- Save reminders to a file
-- Add due dates and times
-
 ## License
 MIT
