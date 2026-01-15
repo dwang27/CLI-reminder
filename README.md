@@ -1,50 +1,30 @@
-CLI Reminder App
+# CLI Reminder App
 
-A simple command-line application that allows users to create and manage reminders.
+A command-line program that lets users create and manage reminders.
 
-Description
+## Description
+The CLI Reminder App is a Python-based command-line tool that allows users to set and view reminders directly from the terminal. It exists to provide a simple and lightweight way to track tasks without using a graphical interface. The project is built entirely using Python.
 
-The CLI Reminder App is a Python-based command-line tool that helps users set, view, and manage reminders directly from the terminal. It exists to provide a lightweight and distraction-free way to keep track of tasks without using a graphical interface. The project is built using Python and runs entirely in the command line.
+## How to Run
+1. Make sure Python is installed on your computer.
+2. Download or clone the project files.
+3. Open a terminal in the project folder.
+4. Run the program using:
+   python main.py
 
-How to Run
+## Features
+- Create reminders using the command line
+- View saved reminders
+- Simple and easy to use
+- Runs entirely in the terminal
 
-Make sure Python is installed on your system.
+## Technologies Used
+- Python
 
-Clone or download the project files.
+## Future Improvements (optional)
+- Add reminder notifications
+- Save reminders to a file
+- Add due dates and times
 
-Open a terminal in the project directory.
-
-Run the program using:
-
-python main.py
-
-
-(Replace main.py with your actual file name if different.)
-
-Features
-
-Create reminders from the command line
-
-View existing reminders
-
-Simple and easy-to-use interface
-
-Lightweight and fast
-
-Technologies Used
-
-Python
-
-Future Improvements (optional)
-
-Add reminder notifications
-
-Save reminders to a file or database
-
-Add support for due dates and times
-
-Improve command-line options
-
-License
-
+## License
 MIT
