@@ -17,6 +17,7 @@ The CLI Reminder App is a Python-based command-line tool that allows users to se
 
 ## Technologies Used
 - Python
+- VS code
 - Computer
 
 ## License
